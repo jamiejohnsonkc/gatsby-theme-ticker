@@ -1,0 +1,16 @@
+{
+    "name": "gatsby-theme-ticker",
+    "version": "1.0.0",
+    "description": "Port of react-native-text-ticker by Dean Hetherington",
+    "main": "index.js",
+    "author": "Jamie Johnson",
+    "license": "MIT",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jamiejohnsonkc/gatsby-theme-ticker.git"
+    },
+    "devDependencies": {
+        "react-native-text-ticker": "^1.7.0"
+    }
+}
